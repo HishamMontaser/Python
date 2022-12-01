@@ -1,0 +1,6 @@
+Position,Field Name,Example Data,Description
+0,Sentence Type Identifier, $GPGGA ,GGA Protocol header
+1, Time,170241,17:02:41 UTC
+2,Latiude,3401.21189,ddmm.mmmm format converts to 34.020196
+3,Longitude Hempisphere,W,"W=West , E=East"
+4,Number of Satellites,6,6 Satellites are in view
